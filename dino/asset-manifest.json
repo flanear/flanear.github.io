@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dino/static/css/main.f375bd07.css",
+    "main.js": "/dino/static/js/main.d1b8f103.js",
+    "static/js/787.59286368.chunk.js": "/dino/static/js/787.59286368.chunk.js",
+    "index.html": "/dino/index.html",
+    "main.f375bd07.css.map": "/dino/static/css/main.f375bd07.css.map",
+    "main.d1b8f103.js.map": "/dino/static/js/main.d1b8f103.js.map",
+    "787.59286368.chunk.js.map": "/dino/static/js/787.59286368.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f375bd07.css",
+    "static/js/main.d1b8f103.js"
+  ]
+}
